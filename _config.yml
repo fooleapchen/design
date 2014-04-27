@@ -1,5 +1,5 @@
 encoding: utf-8
 name: Fooleap's Design
-permalink: none
+permalink: /design/:categories/:title.html
 markdown: redcarpet
 pygments: true
